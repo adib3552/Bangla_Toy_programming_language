@@ -40,6 +40,7 @@ This repository contains the **Bangla Toy Programming Language**, which is desig
 
 # Example Program
 
+```
 চল
 ত=5;
 তালিকা তাল[ত];
@@ -56,4 +57,5 @@ This repository contains the **Bangla Toy Programming Language**, which is desig
     ল=ল+1;    
 }
 থাম
+```
 
