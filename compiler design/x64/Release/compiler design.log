@@ -1,0 +1,511 @@
+﻿  compiler design.cpp
+C:\Program Files\LLVM\include\llvm\IR\Metadata.h(1101,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Metadata.h(1160,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Metadata.h(1522,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\DerivedTypes.h(455,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\DerivedTypes.h(486,24): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\DerivedTypes.h(596,52): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Constants.h(783,66): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(1375,25): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(1397,14): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(1424,48): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(1459,14): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(2037,25): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(2072,53): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\InstrTypes.h(2350,28): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(75,7): warning C4624: 'llvm::OverflowingBinaryOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(129,7): warning C4624: 'llvm::PossiblyExactOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(170,7): warning C4624: 'llvm::FPMathOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,13>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(351,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,13>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(350,7): warning C4624: 'llvm::AddOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,15>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(354,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,15>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(353,7): warning C4624: 'llvm::SubOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,17>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(357,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,17>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(356,7): warning C4624: 'llvm::MulOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,25>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(360,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::OverflowingBinaryOperator,25>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(359,7): warning C4624: 'llvm::ShlOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::PossiblyExactOperator,27>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(364,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::PossiblyExactOperator,27>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(363,7): warning C4624: 'llvm::AShrOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::PossiblyExactOperator,26>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(367,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::PossiblyExactOperator,26>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(366,7): warning C4624: 'llvm::LShrOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::Operator,34>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(371,12):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::Operator,34>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(370,7): warning C4624: 'llvm::GEPOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(468,20): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::Operator,47>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(510,14):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::Operator,47>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(509,7): warning C4624: 'llvm::PtrToIntOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::Operator,49>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(538,14):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::Operator,49>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(537,7): warning C4624: 'llvm::BitCastOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7): warning C4624: 'llvm::ConcreteOperator<llvm::Operator,50>': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Operator.h(336,7):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Operator.h(553,14):
+          see reference to class template instantiation 'llvm::ConcreteOperator<llvm::Operator,50>' being compiled
+  
+C:\Program Files\LLVM\include\llvm\IR\Operator.h(552,7): warning C4624: 'llvm::AddrSpaceCastOperator': destructor was implicitly defined as deleted
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\CFG.h(124,23): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1527,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1536,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1537,53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1537,36): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1550,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1558,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1559,53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(1559,36): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2061,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2072,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2095,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2127,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2168,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2189,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2213,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2262,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(2285,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3408,24): warning C4244: 'argument': conversion from 'ptrdiff_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3876,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3888,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3889,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3899,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3910,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3911,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4082,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4082,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4093,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4093,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4095,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4107,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4107,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4119,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4119,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4121,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4523,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4530,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4564,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(4571,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(380,16): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(419,16): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(490,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(491,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(502,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(510,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(511,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(527,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(528,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(537,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(538,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(568,29): warning C4267: 'initializing': conversion from 'size_t' to 'llvm::BitVector::size_type', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(576,29): warning C4267: 'initializing': conversion from 'size_t' to 'llvm::BitVector::size_type', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(586,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(635,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(748,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(766,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(831,56): warning C4267: 'return': conversion from 'size_t' to 'llvm::BitVector::size_type', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\ADT\BitVector.h(832,57): warning C4267: 'return': conversion from 'size_t' to 'llvm::BitVector::size_type', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\Object\ObjectFile.h(660,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\DebugInfo\DIContext.h(110,58): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\TargetParser\SubtargetFeature.h(98,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\TargetParser\SubtargetFeature.h(110,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\TargetParser\SubtargetFeature.h(121,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\TargetParser\SubtargetFeature.h(146,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3378,44): warning C4244: 'return': conversion from 'const ptrdiff_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3378,44):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3526,15):
+          see reference to class template instantiation 'llvm::SwitchInst::CaseIteratorImpl<llvm::SwitchInst::ConstCaseHandle>' being compiled
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3422,47):
+          see reference to class template instantiation 'llvm::SwitchInst::CaseHandleImpl<const llvm::SwitchInst,const llvm::ConstantInt,const llvm::BasicBlock>' being compiled
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3378,14):
+          while compiling class template member function 'unsigned int llvm::SwitchInst::CaseHandleImpl<const llvm::SwitchInst,const llvm::ConstantInt,const llvm::BasicBlock>::getCaseIndex(void) const'
+              C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3569,5):
+              see the first reference to 'llvm::SwitchInst::CaseHandleImpl<const llvm::SwitchInst,const llvm::ConstantInt,const llvm::BasicBlock>::getCaseIndex' in 'llvm::SwitchInst::findCaseValue'
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3366,64): warning C4244: 'argument': conversion from 'ptrdiff_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3366,64):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3363,19):
+          while compiling class template member function 'ConstantIntT *llvm::SwitchInst::CaseHandleImpl<const llvm::SwitchInst,ConstantIntT,const llvm::BasicBlock>::getCaseValue(void) const'
+          with
+          [
+              ConstantIntT=const llvm::ConstantInt
+          ]
+              C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3575,7):
+              see the first reference to 'llvm::SwitchInst::CaseHandleImpl<const llvm::SwitchInst,const llvm::ConstantInt,const llvm::BasicBlock>::getCaseValue' in 'llvm::SwitchInst::findCaseValue::<lambda_1>::operator ()'
+  
+C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3385,30): warning C4244: 'return': conversion from 'ptrdiff_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3385,30):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3398,16):
+          see reference to class template instantiation 'llvm::SwitchInst::CaseHandleImpl<llvm::SwitchInst,llvm::ConstantInt,llvm::BasicBlock>' being compiled
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3381,14):
+          while compiling class template member function 'unsigned int llvm::SwitchInst::CaseHandleImpl<llvm::SwitchInst,llvm::ConstantInt,llvm::BasicBlock>::getSuccessorIndex(void) const'
+              C:\Program Files\LLVM\include\llvm\IR\Instructions.h(3413,23):
+              see the first reference to 'llvm::SwitchInst::CaseHandleImpl<llvm::SwitchInst,llvm::ConstantInt,llvm::BasicBlock>::getSuccessorIndex' in 'llvm::SwitchInst::CaseHandle::setSuccessor'
+  
+C:\Program Files\LLVM\include\llvm\Support\Allocator.h(355,40): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\Support\Allocator.h(355,40):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\Support\Allocator.h(382,29):
+          while compiling class template 'llvm::SpecificBumpPtrAllocator'
+          C:\Program Files\LLVM\include\llvm\Support\Allocator.h(383,20):
+          see reference to class template instantiation 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>' being compiled
+          C:\Program Files\LLVM\include\llvm\Support\Allocator.h(351,8):
+          while compiling class template member function 'void llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::DeallocateSlabs(void **,void **)'
+              C:\Program Files\LLVM\include\llvm\Support\Allocator.h(98,20):
+              see the first reference to 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::DeallocateSlabs' in 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::~BumpPtrAllocatorImpl'
+              C:\Program Files\LLVM\include\llvm\Support\RecyclingAllocator.h(57,1):
+              see the first reference to 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::~BumpPtrAllocatorImpl' in 'llvm::RecyclingAllocator<llvm::BumpPtrAllocator,llvm::jitlink::InProcessMemoryManager::FinalizedAllocInfo,48,8>::RecyclingAllocator'
+  
+C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(419,24): warning C4244: 'return': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(419,24):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\ExecutionEngine\Orc\LLJIT.h(597,48):
+          see reference to class template instantiation 'llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>' being compiled
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr
+          ]
+          C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(741,25):
+          see reference to class template instantiation 'llvm::DenseMapBase<llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>,KeyT,ValueT,KeyInfoT,BucketT>' being compiled
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr,
+              KeyInfoT=llvm::DenseMapInfo<llvm::orc::JITDylib *,void>,
+              BucketT=llvm::detail::DenseMapPair<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr>
+          ]
+          C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(413,12):
+          while compiling class template member function 'unsigned int llvm::DenseMapBase<llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>,KeyT,ValueT,KeyInfoT,BucketT>::getMinBucketToReserveForEntries(unsigned int)'
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr,
+              KeyInfoT=llvm::DenseMapInfo<llvm::orc::JITDylib *,void>,
+              BucketT=llvm::detail::DenseMapPair<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr>
+          ]
+              C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(820,22):
+              see the first reference to 'llvm::DenseMapBase<llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>,KeyT,ValueT,KeyInfoT,BucketT>::getMinBucketToReserveForEntries' in 'llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>::init'
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr,
+              KeyInfoT=llvm::DenseMapInfo<llvm::orc::JITDylib *,void>,
+              BucketT=llvm::detail::DenseMapPair<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr>
+          ]
+          and
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr
+          ]
+              C:\Program Files\LLVM\include\llvm\ADT\DenseMap.h(757,56):
+              see the first reference to 'llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>::init' in 'llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>::DenseMap'
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr
+          ]
+              C:\Program Files\LLVM\include\llvm\ExecutionEngine\Orc\LLJIT.h(591,44):
+              see the first reference to 'llvm::DenseMap<llvm::orc::JITDylib *,llvm::orc::ExecutorAddr,llvm::DenseMapInfo<KeyT,void>,llvm::detail::DenseMapPair<KeyT,ValueT>>::DenseMap' in 'llvm::orc::ORCPlatformSupport::ORCPlatformSupport'
+          with
+          [
+              KeyT=llvm::orc::JITDylib *,
+              ValueT=llvm::orc::ExecutorAddr
+          ]
+  
+C:\Program Files\LLVM\include\llvm\Support\Allocator.h(337,58): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\Support\Allocator.h(337,58):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\Support\Allocator.h(336,8):
+          while compiling class template member function 'void llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::StartNewSlab(void)'
+              C:\Program Files\LLVM\include\llvm\Support\Allocator.h(195,17):
+              see the first reference to 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::StartNewSlab' in 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::Allocate'
+              C:\Program Files\LLVM\include\llvm\Support\Allocator.h(209,5):
+              see the first reference to 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::Allocate' in 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::Allocate'
+              C:\Program Files\LLVM\include\llvm\Support\AllocatorBase.h(53,5):
+              see the first reference to 'llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>::Allocate' in 'llvm::AllocatorBase<llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>>::Allocate'
+              C:\Program Files\LLVM\include\llvm\Support\AllocatorBase.h(76,5):
+              see the first reference to 'llvm::AllocatorBase<llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>>::Allocate' in 'llvm::AllocatorBase<llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>>::Allocate'
+              C:\Program Files\LLVM\include\llvm\ExecutionEngine\JITLink\JITLink.h(438,15):
+              see the first reference to 'llvm::AllocatorBase<llvm::BumpPtrAllocatorImpl<llvm::MallocAllocator,4096,4096,128>>::Allocate' in 'llvm::jitlink::Symbol::constructExternal'
+  
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244: 'argument': conversion from 'const StorageType' to 'T', possible loss of data
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         with
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         [
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:             StorageType=unsigned short
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         ]
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         and
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         [
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:             T=unsigned char
+C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22): warning C4244:         ]
+  (compiling source file 'compiler%20design.cpp')
+      C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(180,22):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\LLVM\include\llvm\IR\Instructions.h(584,32):
+          see reference to function template instantiation 'bool llvm::Instruction::getSubclassData<llvm::AtomicCmpXchgInst::WeakField>(void) const' being compiled
+          C:\Program Files\LLVM\include\llvm\IR\Instruction.h(985,22):
+          see reference to function template instantiation 'bool llvm::Bitfield::get<llvm::AtomicCmpXchgInst::WeakField,unsigned short>(StorageType)' being compiled
+          with
+          [
+              StorageType=unsigned short
+          ]
+          C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(256,52):
+          see reference to class template instantiation 'llvm::bitfields_details::Impl<llvm::AtomicCmpXchgInst::WeakField,unsigned short>' being compiled
+          C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(178,22):
+          while compiling class template member function 'unsigned char llvm::bitfields_details::Impl<llvm::AtomicCmpXchgInst::WeakField,unsigned short>::extract(StorageType)'
+          with
+          [
+              StorageType=unsigned short
+          ]
+              C:\Program Files\LLVM\include\llvm\ADT\Bitfields.h(256,5):
+              see the first reference to 'llvm::bitfields_details::Impl<llvm::AtomicCmpXchgInst::WeakField,unsigned short>::extract' in 'llvm::Bitfield::get'
+  
+  Generating code
+  1 of 1636 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  compiler design.vcxproj -> C:\Users\User\source\repos\compiler design\x64\Release\compiler design.exe
